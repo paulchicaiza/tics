@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-06-29T01:20:19.124Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:109.0) Gecko/20100101 Firefox/114.0" etag="IMG_hfxIfY4QmxBLmFkF" version="21.5.0" type="github">
+<mxfile host="app.diagrams.net" modified="2023-06-30T01:20:29.057Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:109.0) Gecko/20100101 Firefox/114.0" etag="w45NCxmjwmpIz_TqOJrO" version="21.5.0" type="github">
   <diagram name="Page-1" id="c7488fd3-1785-93aa-aadb-54a6760d102a">
     <mxGraphModel dx="1247" dy="715" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
@@ -45,7 +45,7 @@
         <mxCell id="2b4e8129b02d487f-12" value="Obtener una alta calificación de satisfación" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" parent="2b4e8129b02d487f-3" vertex="1">
           <mxGeometry x="160" y="90" width="110" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="X-eV1Z6oXzj3kzWsgmru-18" value="Incrementar la fidelización" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" vertex="1" parent="2b4e8129b02d487f-3">
+        <mxCell id="X-eV1Z6oXzj3kzWsgmru-18" value="Incrementar usuarios" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" vertex="1" parent="2b4e8129b02d487f-3">
           <mxGeometry x="480" y="40" width="110" height="50" as="geometry" />
         </mxCell>
         <mxCell id="X-eV1Z6oXzj3kzWsgmru-17" value="Incrementar suscripciones" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" vertex="1" parent="2b4e8129b02d487f-3">
