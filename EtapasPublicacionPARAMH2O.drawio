@@ -1,9 +1,24 @@
-<mxfile host="app.diagrams.net" modified="2024-01-16T13:49:11.064Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 OPR/106.0.0.0" version="22.1.18" etag="8j96H3cPKPnLwHC8XtA1" type="github">
+<mxfile host="app.diagrams.net" modified="2024-01-16T13:59:51.438Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 OPR/106.0.0.0" etag="oh9pwuWnRQWB0dNTRMBO" version="22.1.18" type="github">
   <diagram name="Página-1" id="OmuqNsS3n6pLIajOQEEh">
-    <mxGraphModel>
+    <mxGraphModel dx="855" dy="585" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="XAkuYWi9vdSHDBRCI2bh-1" value="Migración y cambio de arquitectura" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="40" y="40" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="XAkuYWi9vdSHDBRCI2bh-2" value="Análisis de vulnerabilidades" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="200" y="40" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="XAkuYWi9vdSHDBRCI2bh-3" value="Mitigación de vulnerabilidades" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="360" y="40" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="XAkuYWi9vdSHDBRCI2bh-4" value="Verificación tratamiento vulnerabilidades" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="520" y="40" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="XAkuYWi9vdSHDBRCI2bh-5" value="Publicación PARAMH2O" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="680" y="40" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
